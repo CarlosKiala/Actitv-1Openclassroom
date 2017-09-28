@@ -1,0 +1,9 @@
+
+#Show random quote 
+
+# if user_lanswer is "B"
+
+     # leave the program 
+
+# Else: 
+  # show another quote :w
