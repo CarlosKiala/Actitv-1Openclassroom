@@ -22,4 +22,16 @@ else:
 
     #show another quote 
 
-    
+def show_random_item(my_list):
+
+    #TODO: get a random number
+
+    item = my_list[0] #get a quote from a list
+
+    print(item) # show the quote in the interpreter 
+
+    return "program is over" # returned value 
+
+print(show_random_item(quotes))
+
+
